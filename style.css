@@ -2,6 +2,15 @@ body {
 	position: relative;
 }
 
+.mark {
+	position: fixed;
+	height: 50px;
+	width: 50px;
+	top: 0px;
+	left: 0px;
+	background: rgb(255, 0, 0);
+}
+
 .main {
 	position: relative;
 	width: 700px;
@@ -11,4 +20,4 @@ body {
 
 .banner {
 	width: 100%;
-};
+}
